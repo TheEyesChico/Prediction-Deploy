@@ -1,4 +1,3 @@
 # Prediction-Deploy
-</n>
-## Author - Raghav Gupta
-## Go to [LIVE SITE](https://salary-prediction-first.herokuapp.com/) here
+### Author - Raghav Gupta
+Visit Live Site [HERE](https://salary-prediction-first.herokuapp.com) 
